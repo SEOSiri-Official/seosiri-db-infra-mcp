@@ -1,0 +1,7 @@
+name = "seosiri-db-infra-mcp"
+main = "worker.js"
+compatibility_date = "2026-08-01"
+
+[site]
+bucket = "./public"
+EOF
