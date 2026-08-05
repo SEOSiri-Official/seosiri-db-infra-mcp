@@ -6,6 +6,8 @@ An open-source, local-first Model Context Protocol (MCP) server for **Secure Liv
 
 ---
 
+[![seosiri-db-infra-mcp MCP server](https://glama.ai/mcp/servers/SEOSiri-Official/seosiri-db-infra-mcp/badges/card.svg?v=1)](https://glama.ai/mcp/servers/SEOSiri-Official/seosiri-db-infra-mcp)
+
 ## 💖 Sponsorship, B2B Custom Solutions & Attribution
 
 ### 👨‍💻 Lead Architect & Attribution
