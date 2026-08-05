@@ -4,4 +4,3 @@ compatibility_date = "2026-08-01"
 
 [site]
 bucket = "./public"
-EOF
